@@ -1,0 +1,16 @@
+C:\Users\Rafae\Documents\Development\DOTNET\DioSeries\bin\Debug\net5.0\DioSeries.exe
+C:\Users\Rafae\Documents\Development\DOTNET\DioSeries\bin\Debug\net5.0\DioSeries.deps.json
+C:\Users\Rafae\Documents\Development\DOTNET\DioSeries\bin\Debug\net5.0\DioSeries.runtimeconfig.json
+C:\Users\Rafae\Documents\Development\DOTNET\DioSeries\bin\Debug\net5.0\DioSeries.runtimeconfig.dev.json
+C:\Users\Rafae\Documents\Development\DOTNET\DioSeries\bin\Debug\net5.0\DioSeries.dll
+C:\Users\Rafae\Documents\Development\DOTNET\DioSeries\bin\Debug\net5.0\ref\DioSeries.dll
+C:\Users\Rafae\Documents\Development\DOTNET\DioSeries\bin\Debug\net5.0\DioSeries.pdb
+C:\Users\Rafae\Documents\Development\DOTNET\DioSeries\obj\Debug\net5.0\DioSeries.csprojAssemblyReference.cache
+C:\Users\Rafae\Documents\Development\DOTNET\DioSeries\obj\Debug\net5.0\DioSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafae\Documents\Development\DOTNET\DioSeries\obj\Debug\net5.0\DioSeries.AssemblyInfoInputs.cache
+C:\Users\Rafae\Documents\Development\DOTNET\DioSeries\obj\Debug\net5.0\DioSeries.AssemblyInfo.cs
+C:\Users\Rafae\Documents\Development\DOTNET\DioSeries\obj\Debug\net5.0\DioSeries.csproj.CoreCompileInputs.cache
+C:\Users\Rafae\Documents\Development\DOTNET\DioSeries\obj\Debug\net5.0\DioSeries.dll
+C:\Users\Rafae\Documents\Development\DOTNET\DioSeries\obj\Debug\net5.0\ref\DioSeries.dll
+C:\Users\Rafae\Documents\Development\DOTNET\DioSeries\obj\Debug\net5.0\DioSeries.pdb
+C:\Users\Rafae\Documents\Development\DOTNET\DioSeries\obj\Debug\net5.0\DioSeries.genruntimeconfig.cache
