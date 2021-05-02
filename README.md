@@ -4,8 +4,7 @@
 
 [3] Esse projeto faz parte do Bootcamp MRV .NET Developer
 
-[4] Aqui tem um pdf do que foi feito no curso do repositório:
-    LINK: https://github.com/elizarp/dio-dotnet-poo-lab-2/blob/master/dio-dotnet-poo-lab-2.pdf
+[4] Aqui tem um pdf do que foi feito no curso do repositório: https://github.com/elizarp/dio-dotnet-poo-lab-2/blob/master/dio-dotnet-poo-lab-2.pdf
 
 [5] Foi criado o método GerarDadosSerie para organizar os métodos InserirSerie e AtualizarSerie
 
